@@ -1,5 +1,6 @@
 # GamePublish
 A template repository to publish games
 
-[Player Scene](https://github.com/WCU-CS-CooperLab/demo-games-JessieLua/tree/main/player_scene)
-[Player Scene AUg 30](player scene/)
+[1.Player Scene Aug 28](https://github.com/WCU-CS-CooperLab/demo-games-JessieLua/tree/main/player_scene)
+
+[2.Player Scene Aug 30](player_scene/)
