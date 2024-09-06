@@ -57,12 +57,12 @@ animations = [{
 [sub_resource type="CircleShape2D" id="CircleShape2D_joa3u"]
 radius = 21.0
 
-[node name="Coin" type="Area2D"]
+[node name="Coin" type="Area2D" groups=["coins"]]
 script = ExtResource("1_jn8p4")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 scale = Vector2(0.4, 0.4)
 sprite_frames = SubResource("SpriteFrames_38jnp")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." groups=["coins"]]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CircleShape2D_joa3u")
