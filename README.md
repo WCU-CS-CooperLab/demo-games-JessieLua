@@ -6,4 +6,4 @@ A template repository to publish games
 
 [2. Main Scene Sept 6](coin-dash/main_scene_09_04)
 
-[3.Space Rocks Player Scene Sept 9](https://github.com/WCU-CS-CooperLab/demo-games-JessieLua/tree/main/player_scene_09_09)
+[3.Space Rocks Player Scene Sept 9](player_scene_09_09)
