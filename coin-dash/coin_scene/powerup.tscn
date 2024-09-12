@@ -62,6 +62,7 @@ sprite_frames = SubResource("SpriteFrames_38jnp")
 animation = &"powerup"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." groups=["powerups"]]
+visible = false
 shape = SubResource("CircleShape2D_joa3u")
 
 [node name="Lifetime" type="Timer" parent="."]

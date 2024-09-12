@@ -40,7 +40,9 @@ func _process(delta):
 		level += 1
 		time_left += 5
 		spawn_coins()
-		$PowerupTimer
+		$PowerupTimer.wait_time = randi_range(3,10)
+		$PowerupTimer.start()
+		
 		
 		
 func _on_game_timer_timeout():
@@ -79,7 +81,7 @@ func _on_hud_start_game():
 	new_game()
 
 
-func _on_powerup_timer_timeout() -> void:
+func _on_powerup_timer_timeout():
 	var p = powerup_scene.instantiate()
 	add_child(p)
 	p.screensize = screensize
