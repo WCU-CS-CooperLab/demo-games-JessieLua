@@ -9,3 +9,5 @@ A template repository to publish games
 [3.Space Rocks Player Scene Sept 9](player_scene_09_09)
 
 [4.Space Rocks Main Scene Sept 11](sr_main_09_11)
+
+[5. Coin Dash Phase I](coin-dash/main_scene_09_04)
