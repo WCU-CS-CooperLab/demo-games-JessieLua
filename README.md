@@ -15,3 +15,5 @@ A template repository to publish games
 [6. Coin Dashers Phase II](coindashers_main_scene)
 
 [7. Space Rocks Main Scene Sept 13](sr_main_09_13)
+
+[8. Coin Dashers Phase II](coindashers_main_scene_09_16)
