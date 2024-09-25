@@ -19,3 +19,5 @@ A template repository to publish games
 [8. Coin Dashers Phase II](coindashers_main_scene_09_16)
 
 [9. Space Rocks Main Scene Sept 18](sr_main_09_18)
+
+[10. Mini Golf Main Scene Sept 25](minigolf_main_scene_09_25)
