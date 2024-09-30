@@ -21,5 +21,5 @@
 
 ##Projects
 
-1. [Project 1 Phase 1](coin-dash/main_scene_09_04)
+1. [Project 1 Phase 1](coin_dash_main_scene/)
 2. [Project 1 Phase 2](coindashers_main_scene)
