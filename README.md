@@ -1,6 +1,6 @@
 # Jessie Lua's GamePublish
 
-##Main Scenes
+## Main Scenes
 
 [1.Player Scene Sept 3](coin-dash/player_scene_sept_3/)
 
@@ -21,11 +21,12 @@
 [10. Jungle Jump Main Scene Oct 7](Jungle_Jump_main_scene_10_07)
 
 
-##Project 1 
+## Project 1 
 
 1. [Project 1 Phase 1](coin_dash_main_scene/)
 2. [Project 1 Phase 2](coindashers_main_scene)
 
+<<<<<<< HEAD
 ##Project 2
 1. [Project 2 Phase 1](Jungle_Jump_phase_1)
-2. [Project 2 Phase 2](Jungle_Jumpers_Main)
+2. [Project 2 Phase 2]
