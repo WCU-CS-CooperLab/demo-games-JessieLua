@@ -27,4 +27,5 @@
 2. [Project 1 Phase 2](coindashers_main_scene)
 
 ##Project 2
-1.[Project 2 Phase 1](Jungle_Jump_phase_1)
+1. [Project 2 Phase 1](Jungle_Jump_phase_1)
+2. [Project 2 Phase 2](Jungle_Jumpers_Main)
