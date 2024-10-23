@@ -29,4 +29,4 @@
 <<<<<<< HEAD
 ##Project 2
 1. [Project 2 Phase 1](Jungle_Jump_phase_1)
-2. [Project 2 Phase 2]
+2. [Project 2 Phase 2](Jungle_Jumper_Main)
