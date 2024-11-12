@@ -30,5 +30,8 @@
 1. [Project 2 Phase 1](Jungle_Jump_phase_1)
 2. [Project 2 Phase 2](Jungle_Jumper_Main)
 
+## Project 3
+1. [Project 3 Phase 1](Infinity_Flyer)
+
 ## Team Project 1
 [Key Quest](Key_Quest_Team_Project)
