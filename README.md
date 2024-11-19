@@ -32,6 +32,7 @@
 
 ## Project 3
 1. [Project 3 Phase 1](Infinity_Flyer)
+2. [Project 3 Phase 2](Midnight_Runner)
 
 ## Team Project 1
 [Key Quest](Key_Quest_Team_Project)
