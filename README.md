@@ -31,7 +31,7 @@
 2. [Project 2 Phase 2](Jungle_Jumper_Main)
 
 ## Project 3
-1. [Project 3 Phase 1](Infinity_Flyer)
+1. [Project 3 Phase 1](Infinity_Flyer_working)
 2. [Project 3 Phase 2](Midnight_Runner)
 
 ## Team Project 1
