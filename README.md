@@ -38,7 +38,7 @@
 [Key Quest](Key_Quest_Team_Project)
 
 ## Team Project 2
-Knights arena , download file in repo
+Knights arena (Arena Fighters in repo), download file in repo
 
 ## Project 4
 1. [Project 4 Lobby Scene](Project_4_lobby_scene)
